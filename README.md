@@ -1,4 +1,5 @@
 # 📊 AttendIQ
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/2b739208-a9aa-476d-a43c-b8924136ec86" />
 
 **AttendIQ** is a modern, offline-first, and highly performant mobile application built with **React Native** and **Expo (SDK 54)**. Designed for small-to-medium businesses, it provides a comprehensive suite for managing employee records, tracking daily attendance, handling hourly permissions/leaves, and calculating payrolls with direct Excel exports.
 
